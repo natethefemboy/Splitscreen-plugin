@@ -1,0 +1,5 @@
+# Anzahl der zusätzlichen Sub-Accounts pro Splitscreen-Client (Standard)
+extra-players: 2
+
+# Debug-Ausgabe aktivieren
+debug: true
