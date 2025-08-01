@@ -1,0 +1,14 @@
+name: SplitscreenHandler
+main: com.splitscreen.SplitscreenPlugin
+version: 1.0.0
+api-version: 1.20
+depend: [Geyser-Spigot, floodgate, ProtocolLib]
+commands:
+  splitscreen:
+    description: Reload des Plugins
+    usage: /splitscreen reload
+    permission: splitscreen.reload
+permissions:
+  splitscreen.reload:
+    description: Erlaubt das Neuladen des Plugins
+    default: op
