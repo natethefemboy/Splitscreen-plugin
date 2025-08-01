@@ -1,0 +1,5 @@
+players:
+  "UUID":
+    name: XboxUser123
+    device: XBOX
+    subAccounts: 2
